@@ -1,0 +1,31 @@
+/*Styles for project 4*/
+
+body{
+    Letter-spacing: .5px;
+    line-height: 1.5;
+    padding: 10%;   
+}
+
+h1 {
+    font-family: eco, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: forestgreen; 
+}
+h2 {
+    color: darkolivegreen;
+    font-family: helvetica;
+    font-size: 16px;
+    text-decoration-line: underline;
+
+}
+
+img {
+    max-width:100%;
+}
+
+p {
+    background-color: tan;
+    font-family: Courier new;
+    font-weight: bold;
+}

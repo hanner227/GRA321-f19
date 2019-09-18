@@ -1,13 +1,41 @@
 /*Styles for project 5*/
 
 body{
-    Letter-spacing: .5px;
-    line-height: 1.5;
     padding: 10%;
-    font-family: cursive,sans-serif;
-    font-weight: 300;
-    font-style: normal;
-    color: darkmagenta;
 }
 
+h1{
+    Padding: 1rem;
+    font-family: fantasy,sans-serif;
+    text-align: center;
+    color: black;
+    
+}
 
+h2{
+    padding: 1rem;
+    font-family: comic sans ms;
+    font-size: 12pt;
+    text-indent: 1rem;
+    color:dimgray;
+}
+
+h3{
+    padding: 1rem;
+    font-family: comic sans ms;
+    font-size: 12pt; 
+    text-indent: 1rem;
+    color:dimgray;
+}
+
+h4{
+    padding: 1rem;
+    font-family: comic sans ms;
+    font-size: 12pt;
+    text-indent: 1rem;
+    color:dimgray;
+}
+ 
+
+
+    

@@ -1,0 +1,193 @@
+/*Project 6-Styles*/
+
+li { list-style: none;} 
+img{ max-width: 100%}
+
+h1{ 
+    background-image:
+    url('../img/CoffeeCrossant.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1100px 1000px;
+    padding: 5rem 3rem 0rem 3rem;
+    margin: 0rem;
+    border: 0rem; }
+
+    .special-0{
+        padding: 6rem 5rem 8rem 5rem;
+        text-align: center;
+        font-size: 80px;
+        font-family:cursive;
+        color: black;
+        flex-grow: 5;}
+
+h2{
+    padding: 5rem 8rem 5rem 8rem;
+    text-align: center;
+    font-size: 60px;
+    font-family: cursive;
+    color: #62250D;    }
+
+    .special-10{
+        padding: 8rem;
+        text-align:center;
+        font-size: 80px;
+        font-family:cursive;
+        color: black; }
+
+.hotdrinks{
+    background-image:
+    url('../img/cup2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 
+    padding: 3.5rem 8rem 5rem 8rem;
+    text-align: center;
+    font-size: 40px;
+    font-family: serif;}
+    
+
+    .special-1{
+        text-align: center;
+        font-family: serif;
+        font-size: 60px;
+        text-decoration: underline;   }
+
+    .special-2{
+        text-align: center;
+        font-family: serif;
+        font-size: 60px;
+        text-decoration: underline;}
+
+.iceddrinks{
+    background-image:
+    url('../img/Tea%20Glass2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 600px 900px;
+    padding: 10rem 8rem 5rem 8rem;
+    text-align: center;
+    font-size: 40px; }
+
+    .special-3{
+        text-align: center;
+        font-family: serif;
+        font-size: 60px;
+        text-decoration: underline;}
+
+.specials{
+    padding: 0rem 8rem 10rem 8rem;
+    text-align: center;
+    font-size: 40px;}
+
+    .special-4{
+        text-align: center;
+        font-family: serif;
+        font-size: 50px;
+        text-decoration: underline;}
+ 
+.paninis{
+   background-image:
+    url('../img/Sandwich2.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 800px 1000px;
+    padding: 3.5rem 12rem 10rem 12rem;
+    text-align: center;
+    font-size: 40px;   }
+
+    .special-5{
+    text-align: center;
+    font-family: serif;
+    font-size: 60px;
+    text-decoration: underline;}
+
+        .italiano{
+            font-style: italic;}
+        .serville{
+            font-style: italic;}
+        .milano{
+            font-style: italic;}
+        .caprese{
+            font-style: italic;}
+        .turkeyflorentine{
+            font-style: italic;}
+        .vegitarian{
+            font-style: italic;}
+        .mediterraneanchicken{
+            font-style: italic;}
+
+.pastries{
+    background-image:
+    url('../img/Donut2.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 800px 800px;
+    padding: 3.5rem 8rem 10rem 8rem;
+    text-align: center;
+    font-size: 40px;   }
+    
+    .special-6{
+        text-align: center;
+        font-family: serif;
+        font-size: 60px;
+        text-decoration: underline;}
+
+    .special-7{
+        text-align: center;
+        font-family: serif;
+        font-size: 60px;
+        text-decoration: underline;}
+
+h4{
+    image-orientation: center;
+    text-align: center;
+    font-size: 40px;
+    font-family: serif;
+    color:black;  }
+
+        .special-8{
+            text-align: center;
+            font-family: serif;
+            font-size: 60px;
+            text-decoration: underline;}
+        
+        .map{
+            padding: 3rem ;
+            padding-bottom: 10rem}
+
+h5{
+    image-orientation: center;
+    text-align: center;
+    font-size: 40px;
+    font-family: serif;
+    color:black;  }
+
+        .special-9{
+            text-align: center;
+            font-family: serif;
+            font-size: 60px;
+            text-decoration: underline;}
+
+h6{
+    padding-top: 15rem;
+    padding-bottom: 15rem;
+    text-align: center;
+    font-family:inherit;
+    font-size: 40px;
+    color: chocolate; }
+
+
+
+
+        
+   
+    
+    
+
+
+
+
+
+
+    

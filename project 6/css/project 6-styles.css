@@ -14,10 +14,12 @@ h1{
     border: 0rem; }
 
     .special-0{
-        padding: 6rem 5rem 8rem 5rem;
+        padding: 5rem 5rem 8rem 5rem;
         text-align: center;
-        font-size: 80px;
-        font-family:cursive;
+        font-size: 100px;
+        font-family: Georgia, serif;
+        font-weight: 400;
+        font-style: bold;
         color: black;
         flex-grow: 5;}
 
@@ -32,7 +34,9 @@ h2{
         padding: 8rem;
         text-align:center;
         font-size: 80px;
-        font-family:cursive;
+        font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+        font-weight: 400;
+        font-style: normal;
         color: black; }
 
 .hotdrinks{
@@ -43,7 +47,7 @@ h2{
     padding: 3.5rem 8rem 5rem 8rem;
     text-align: center;
     font-size: 40px;
-    font-family: serif;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
     line-height: 2.3rem;
     letter-spacing: .2rem;}
     
@@ -52,6 +56,9 @@ h2{
         text-align: center;
         font-family: serif;
         font-size: 60px;
+        font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+        font-weight: 400;
+        font-style: normal;
         text-decoration: underline;
         line-height: 5rem;}
         
@@ -60,6 +67,9 @@ h2{
         text-align: center;
         font-family: serif;
         font-size: 60px;
+        font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+        font-weight: 400;
+        font-style: normal;
         text-decoration: underline;}
 
 .iceddrinks{
@@ -71,6 +81,7 @@ h2{
     padding: 10rem 8rem 5rem 8rem;
     text-align: center;
     font-size: 40px;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
     line-height: 2.3rem;
     letter-spacing: .2rem;}
 
@@ -78,6 +89,9 @@ h2{
         text-align: center;
         font-family: serif;
         font-size: 60px;
+        font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+        font-weight: 400;
+        font-style: normal;
         text-decoration: underline;}
 
 .specials{
@@ -88,7 +102,10 @@ h2{
     .special-4{
         text-align: center;
         font-family: serif;
-        font-size: 50px;
+        font-size: 60px;
+        font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+        font-weight: 400;
+        font-style: normal;
         text-decoration: underline;}
  
 .paninis{
@@ -99,29 +116,40 @@ h2{
     background-size: 800px 1000px;
     padding: 3.5rem 12rem 10rem 12rem;
     text-align: center;
-    font-size: 40px; 
+    font-size: 40px;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
     line-height: 2.3rem;
     letter-spacing: .2rem;}
 
     .special-5{
-    text-align: center;
-    font-family: serif;
-    font-size: 60px;
-    text-decoration: underline;}
+        text-align: center;
+        font-family: serif;
+        font-size: 60px;
+        font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+        font-weight: 400;
+        font-style: normal;
+        text-decoration: underline;}
 
         .italiano{
+            font-family: New Century Schoolbook, TeX Gyre Schola, serif;
             font-style: italic;}
         .serville{
+            font-family: New Century Schoolbook, TeX Gyre Schola, serif;
             font-style: italic;}
         .milano{
+            font-family: New Century Schoolbook, TeX Gyre Schola, serif;
             font-style: italic;}
         .caprese{
+            font-family: New Century Schoolbook, TeX Gyre Schola, serif;
             font-style: italic;}
         .turkeyflorentine{
+            font-family: New Century Schoolbook, TeX Gyre Schola, serif;
             font-style: italic;}
         .vegitarian{
+            font-family: New Century Schoolbook, TeX Gyre Schola, serif;
             font-style: italic;}
         .mediterraneanchicken{
+            font-family: New Century Schoolbook, TeX Gyre Schola, serif;
             font-style: italic;}
 
 .pastries{
@@ -132,7 +160,8 @@ h2{
     background-size: 800px 800px;
     padding: 3.5rem 8rem 10rem 8rem;
     text-align: center;
-    font-size: 40px; 
+    font-size: 40px;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
     line-height: 2.3rem;
     letter-spacing: .2rem;}
     
@@ -140,6 +169,9 @@ h2{
         text-align: center;
         font-family: serif;
         font-size: 60px;
+        font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+        font-weight: 400;
+        font-style: normal;
         text-decoration: underline;}
 
     .special-7{
@@ -152,7 +184,7 @@ h4{
     image-orientation: center;
     text-align: center;
     font-size: 40px;
-    font-family: serif;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
     color:black; 
     line-height: 2.3rem;
     letter-spacing: .2rem;}
@@ -161,6 +193,9 @@ h4{
             text-align: center;
             font-family: serif;
             font-size: 60px;
+            font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+        font-weight: 400;
+        font-style: normal;
             text-decoration: underline;}
         
         .map{
@@ -180,6 +215,9 @@ h5{
             text-align: center;
             font-family: serif;
             font-size: 60px;
+            font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+            font-weight: 400;
+            font-style: normal;
             text-decoration: underline;}
 
 h6{
@@ -188,6 +226,9 @@ h6{
     text-align: center;
     font-family:inherit;
     font-size: 40px;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-weight: 400;
+    font-style: normal;
     color: chocolate; }
 
 

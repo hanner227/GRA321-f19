@@ -28,7 +28,7 @@ h2{
     font-family: cursive;
     color: #62250D;    }
 
-    .special-10{
+    .special-10{ 
         padding: 8rem;
         text-align:center;
         font-size: 80px;
@@ -40,18 +40,21 @@ h2{
     url('../img/cup2.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 
     padding: 3.5rem 8rem 5rem 8rem;
     text-align: center;
     font-size: 40px;
-    font-family: serif;}
+    font-family: serif;
+    line-height: 2.3rem;
+    letter-spacing: .2rem;}
     
 
     .special-1{
         text-align: center;
         font-family: serif;
         font-size: 60px;
-        text-decoration: underline;   }
+        text-decoration: underline;
+        line-height: 5rem;}
+        
 
     .special-2{
         text-align: center;
@@ -67,7 +70,9 @@ h2{
     background-size: 600px 900px;
     padding: 10rem 8rem 5rem 8rem;
     text-align: center;
-    font-size: 40px; }
+    font-size: 40px;
+    line-height: 2.3rem;
+    letter-spacing: .2rem;}
 
     .special-3{
         text-align: center;
@@ -94,7 +99,9 @@ h2{
     background-size: 800px 1000px;
     padding: 3.5rem 12rem 10rem 12rem;
     text-align: center;
-    font-size: 40px;   }
+    font-size: 40px; 
+    line-height: 2.3rem;
+    letter-spacing: .2rem;}
 
     .special-5{
     text-align: center;
@@ -125,7 +132,9 @@ h2{
     background-size: 800px 800px;
     padding: 3.5rem 8rem 10rem 8rem;
     text-align: center;
-    font-size: 40px;   }
+    font-size: 40px; 
+    line-height: 2.3rem;
+    letter-spacing: .2rem;}
     
     .special-6{
         text-align: center;
@@ -144,7 +153,9 @@ h4{
     text-align: center;
     font-size: 40px;
     font-family: serif;
-    color:black;  }
+    color:black; 
+    line-height: 2.3rem;
+    letter-spacing: .2rem;}
 
         .special-8{
             text-align: center;
@@ -161,7 +172,9 @@ h5{
     text-align: center;
     font-size: 40px;
     font-family: serif;
-    color:black;  }
+    color:black; 
+    line-height: 2.3rem;
+    letter-spacing: .2rem;}
 
         .special-9{
             text-align: center;
